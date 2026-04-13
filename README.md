@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou o Enrico Palopoli 👋
 
-<!--
-**EnricooMP/EnricooMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspirante a Engenheiro de Dados | Desenvolvedor Python | Entusiasta de Tech
 
-Here are some ideas to get you started:
+Atualmente, estou focado na transição de carreira para a área de **Engenharia de Dados**, aprendendo pipelines robustos e explorando arquiteturas modernas de dados. Tenho um background sólido em administração de sistemas e infraestrutura, o que me dá uma visão diferenciada sobre escalabilidade e performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou trabalhando no momento:
+- 🏗️ Desenvolvendo conhecimento em arquiteturas de **Data Lakehouse**.
+- 🐍 Aprimorando lógica de programação com **Python** (focado em escalabilidade e tratamento de erros).
+- 🔄 Explorando mensageria e processamento em tempo real.
+- ☁️ Aprendendo sobre processos de **ETL/ELT** eficientes.
+
+---
+
+### 🧰 Stack Tecnológica:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, PowerShell |
+| **Engenharia de Dados** | Kafka, Spark, Airflow, Data Lakehouse |
+| **Infraestrutura/OS** | Windows Server, Networking, |
+| **Bancos de Dados** | PostgreSQL, MySQL, NoSQL |
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![Status do GitHub][(https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)](https://github.com/EnricooMP)
+
+---
+
+### 📫 Como me encontrar:
+
+- **LinkedIn:** www.linkedin.com/in/enrico-palopoli-3b4896279
+- 
+---
+
+> "Dados são o novo petróleo, mas o valor real está na refinaria que você constrói." ⚙️
