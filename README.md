@@ -34,7 +34,7 @@ Atualmente, estou focado na transição de carreira para a área de **Engenharia
 ### 📫 Como me encontrar:
 
 - **LinkedIn:** www.linkedin.com/in/enrico-palopoli-3b4896279
-- 
+  
 ---
 
 > "Dados são o novo petróleo, mas o valor real está na refinaria que você constrói." ⚙️
