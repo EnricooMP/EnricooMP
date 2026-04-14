@@ -7,7 +7,7 @@ Atualmente, estou focado na transição de carreira para a área de **Engenharia
 ---
 
 ### 🛠️ No que estou trabalhando no momento:
-- 🏗️ Desenvolvendo conhecimento em arquiteturas de **Data Lakehouse**.
+- 🏗️ Desenvolvendo conhecimentos em arquiteturas de **Data Lakehouse**.
 - 🐍 Aprimorando lógica de programação com **Python** (focado em escalabilidade e tratamento de erros).
 - 🔄 Explorando mensageria e processamento em tempo real.
 - ☁️ Aprendendo sobre processos de **ETL/ELT** eficientes.
